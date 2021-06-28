@@ -1,6 +1,6 @@
 # Lunar Lander
 
-A simple Lunar Lander game made as my first Java project for classes in my university. 
+A simple Lunar Lander game made as my first Java project for classes on my university. 
 
 ## User guide
 
