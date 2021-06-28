@@ -15,7 +15,7 @@ $ git clone https://github.com/zielinskimichal/Lunar-Lander.git
 
 $ java -jar Client.jar
 
-$ java -jar Serwer.jar
+$ java -jar Server.jar
 
 ```
 
