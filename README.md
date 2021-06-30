@@ -25,7 +25,7 @@ Please note you need to have JRE (Java Runtime Environment) installed.
 
 ## Player guide
 
-To play the game type your nickname in the textfield and press the start button. Controlling the rocket is done by pressind w, s, a, d buttons on the keyboard. The game can be paused by pressing space.
+To play the game type your nickname in the textfield and press the start button. Controlling the rocket is done by pressing w, s, a and d buttons on the keyboard. The game can be paused by pressing space.
 
 You can connect to the server(if you turn it on) via the connect button in main menu. This allows the client to send your score which is then saved on the server. It also makes the client download levels configuration from the server rather than taking it from local config files. The port numbers are specified in "resources/port.properties" files of both client and server.  
 
